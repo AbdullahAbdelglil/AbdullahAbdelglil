@@ -124,10 +124,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <picture> <img src = "pictures/streak2.gif" width = 20px>  </picture> <b>My Github Status :</b>
-<br><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahabdelglil&show_icons=true&locale=en" alt="abdullahabdelglil" width=350rem/></p><br>
+
 <p align ="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahabdelglil&" alt="abdullahabdelglil" width=350rem/> 
-</p>
+</p><br>
+
+<br><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahabdelglil&show_icons=true&locale=en" alt="abdullahabdelglil" width=350rem/></p>
+
 <p align ="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahabdelglil&show_icons=true&locale=en&layout=compact" alt="abdullahabdelglil" width=350rem> 
 </p><br><br>
