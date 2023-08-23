@@ -16,9 +16,9 @@
 
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- I am a `Junior` at [Faculty of Engineering - Systems and Computers Department](https://eng-azhar.net/) at [Al-Azhar University](http://azhar.edu.eg/).
+- I am a `Senior` at [Faculty of Engineering - Systems and Computers Department](https://eng-azhar.net/) at [Al-Azhar University](http://azhar.edu.eg/).
 - I love using Software as a solution for every `Problem`.
-- I am a competitive programmer at `Codeforces`, `Leetcode`, `Huckerrank`.
+- I am a competitive programmer at `Codeforces`, `Leetcode`, `Hackerrank`.
 - I’m currently learning `Computer Science` and `Software Engineering`.
 - Always `learning new things`.
 - I’m currently open for an Intern or a new job opportunity
@@ -117,7 +117,7 @@
   &emsp;
     <a href="https://leetcode.com/Abdoullah_2002/"><img alt = "Leetcode" src="https://camo.githubusercontent.com/72508db963e02251a74763caecdd2cc5a789f35fbc3bd35bdc99a7f6de96c5d4/68747470733a2f2f6c656574636f64652e636f6d2f7374617469632f696d616765732f4c656574436f64655f6c6f676f2e706e67" width=60px></a>
   &emsp;
-    <a href="https://www.hackerrank.com/abdoullahzaki1"><img alt = "Huckerrank" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width=60px></a>
+    <a href="https://www.hackerrank.com/abdoullahzaki1"><img alt = "Hackerrank" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width=60px></a>
 </p>
 <br>
 
@@ -126,8 +126,10 @@
 ## <picture> <img src = "pictures/streak2.gif" width = 20px>  </picture> <b>My Github Status :</b>
 <br><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahabdelglil&show_icons=true&locale=en" alt="abdullahabdelglil" width=350rem/></p><br>
 <p align ="center">
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahabdelglil&" alt="abdullahabdelglil" width=350rem/> 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahabdelglil&show_icons=true&locale=en&layout=compact" alt="abdullahabdelglil" width=350rem> 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahabdelglil&" alt="abdullahabdelglil" width=350rem/> 
+</p>
+<p align ="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahabdelglil&show_icons=true&locale=en&layout=compact" alt="abdullahabdelglil" width=350rem> 
 </p><br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
