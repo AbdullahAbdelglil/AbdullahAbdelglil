@@ -128,9 +128,7 @@
 <p align ="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahabdelglil&" alt="abdullahabdelglil" width=350rem/> 
 </p><br>
-
-<br><p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahabdelglil&show_icons=true&locale=en" alt="abdullahabdelglil" width=350rem/></p>
-
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahabdelglil&show_icons=true&locale=en" alt="abdullahabdelglil" width=350rem/></p>
 <p align ="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahabdelglil&show_icons=true&locale=en&layout=compact" alt="abdullahabdelglil" width=350rem> 
 </p><br><br>
