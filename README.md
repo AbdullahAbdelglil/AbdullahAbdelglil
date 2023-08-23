@@ -21,7 +21,7 @@
 - I am a competitive programmer at `Codeforces`, `Leetcode`, `Hackerrank`.
 - I’m currently learning `Computer Science` and `Software Engineering`.
 - Always `learning new things`.
-- I’m currently open for an Intern or a new job opportunity
+- I’m currently open for an `Intern` or a `new job opportunity`
 
 <br><br>
 <p align="center"><img src="pictures/views.gif" width=50px alt="viwes" ></p>
