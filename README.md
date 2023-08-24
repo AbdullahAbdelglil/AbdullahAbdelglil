@@ -137,8 +137,6 @@
 
 ## <picture> <img src="https://cdn-icons-png.flaticon.com/128/7471/7471685.png" width="25px"> </picture> Contact me via :<br> 
 <p align="center">
-	<a href="mailto:abdullahzaki1@gmail.com"><img img src="pictures/Gmail_icon_(2020).svg.png" alt="Gmail" width=60px></a> 
-	<a href="https://github.com/AbdullahAbdelglil"><img src="pictures/github.png" width=50px alt="GitHub"/></a>
-	<a href="https://wa.me/0201151625051"><img src="pictures/WhatsApp.svg.webp" alt="Whatsapp" width=50px></a>
+	
 	<a href="https://www.linkedin.com/in/Abdullah/"><img src="pictures/600px-LinkedIn_logo_initials.webp" alt="LinkedIn" width=50px></a>
 </p>
