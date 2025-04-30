@@ -104,15 +104,15 @@ I am committed to staying up-to-date with the latest advancements in the field a
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=mohamad-shosha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-    <a href="https://github.com/Mohamad-shosha">
-        <img src="https://img.shields.io/github/followers/mohamad-shosha?label=Followers&style=social" alt="GitHub Followers">
+    <img src="https://komarev.com/ghpvc/?username=AbdullahAbdelglil&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <a href="https://github.com/AbdullahAbdelglil">
+        <img src="https://img.shields.io/github/followers/AbdullahAbdelglil?label=Followers&style=social" alt="GitHub Followers">
     </a>
 </p>
 
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=mohamad-shosha" alt="mohamad-shosha" />
+        <img src="https://github-profile-trophy.vercel.app/?username=AbdullahAbdelglil" alt="AbdullahAbdelglil" />
     </a>
 </p>
 
@@ -128,13 +128,13 @@ I am committed to staying up-to-date with the latest advancements in the field a
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamad-shosha&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahAbdelglil&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamad-shosha&theme=tokyonight" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahAbdelglil&theme=tokyonight" alt="GitHub Streak">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamad-shosha&langs_count=8&theme=tokyonight&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAbdelglil&langs_count=8&theme=tokyonight&layout=compact" alt="Top Languages">
 </p>
 
 ---
