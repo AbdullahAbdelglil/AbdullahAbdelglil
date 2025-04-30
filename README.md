@@ -1,143 +1,183 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=1BF766&center=true&vCenter=true&width=1000&lines=Welcome+to+My+GitHub+Profile!;Back-End+Engineer+|+Spring+Boot+Specialist+🚀;Clean+Code+Advocate+|+OOP+%26+SOLID+Expert+✨;Collaborate+to+Innovate+%F0%9F%94%A5" alt="Typing SVG">
+</div>
 
-<h1 align="center"><b>Assalamu Alaikum , I'm Abdullah </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<br>
+<h1 align="center">🌟 Abdullah Abduljalil 🌟</h1>
+<h3 align="center">Curios Back-End Engineer | Java Enthusiast | Problem Solver</h3>
+
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=435&lines=Im+Computer+Science+Student;A+passionate+Spring+Developer;Compatitive+Programmer;Cooding+geek+..👨‍💻;love+to+talk+to+people,;share+ideas,;and+learn+in+public;If+that+sounds+interesting;Contact+with+me+🤜" alt="Typing SVG" /></a>
+  <a href="mailto:abdullah.abduljalil.zaky@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="www.linkedin.com/in/abdullah-abdulgalil-aa583a285"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/AbdullahAbdelglil"><img src="https://img.shields.io/badge/GitHub-Check%20Out-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
+---
 
-##
- 
-<br>
-<picture> <img align="right" src="pictures/final.gif" width = 350rem></picture>
+##  About Me
 
-<br>
+Hi there! My name is **Abdullah**, and I’m a **23-year-old Back-End Engineer** with a passion for building scalable, efficient, and user-centric applications. I specialize in **Java**, **Spring Boot**, and **database management** to deliver clean and impactful solutions.
+
+## 🧑‍💻 Professional Experience
+
+### I-SOFT INTL — Backend Developer  
+**Dec 2023 – Present**  
+- Worked on the back-end of a traffic monitoring system for Egypt’s Ministry of Interior using **Java**, **Spring Boot**, **Spring Data**, and **MongoDB**.
+- Developed features for a secure messaging system used by governmental agencies in **Dubai**, leveraging **Java**, **Spring Boot**, **Traefik**, **Docker**, **OPA**, **MQTT**, and **Redis**.
+- Built scalable microservices, integrated APIs, and enforced security and clean code standards.
+- Collaborated in an agile environment with cross-functional teams to deliver high-impact backend services.
+
+---
+
+## 🎓 Education
+
+### Al-Azhar University — Bachelor's in Computer Science Engineering (CSE)  
+**Oct 2021 – Jun 2025**  
+- Final Year Student  
+- Grade: V.Good  
+- Participated in academic and extracurricular activities focused on software development and engineering principles.
+
+### ITI — Java Spring Developer Track  
+**2023 (Remote Scholarship)**  
+- Completed the **Java Spring Developer track** by the Information Technology Institute (ITI).  
+- Built hands-on projects using **Spring Boot**, **REST APIs**, **Spring Security**, **JWT**, and database integration.  
+- Gained in-depth knowledge of Java backend architecture, testing, and deployment.
 
 
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+- 🔭 **Currently Working On**:  
+I am a skilled and motivated Back-End development engineer with exceptional problem-solving abilities. I specialize in the field of Backend development using the Java language and the Spring Boot Framework.  
+I am committed to staying up-to-date with the latest advancements in the field and am passionate about technology. I am confident that I can make valuable contributions to any project or team.
+- ⚡ **Hobbies**: Gym, Coding, and taking deep dives in the advanced topics.
 
-- I am a `Senior` at [Faculty of Engineering - Systems and Computers Department](https://eng-azhar.net/) at [Al-Azhar University](http://azhar.edu.eg/).
-- I love using Software as a solution for every `Problem`.
-- I am a competitive programmer at `Codeforces`, `Leetcode`, `Hackerrank`.
-- I’m currently learning `Computer Science` and `Software Engineering`.
-- Always `learning new things`.
-- I’m currently open for an `Intern` or a `new job opportunity`
 
-<br><br>
-<p align="center"><img src="pictures/views.gif" width=50px alt="viwes" ></p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=abdullahabdelglil" alt="abdullahabdelglil" width=150px> </p>
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages :<br>
-
-<p align="center"> 
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" width = 60px>
-  </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" width=60px>
-  </a>
+---
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="www.linkedin.com/in/abdullah-abdulgalil-aa583a285" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development :<br>
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://cdn-icons-png.flaticon.com/128/732/732212.png" width=50px>
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width=50px>
-  </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width=50px>
-   </a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+    </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+    </a>
+    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40" />
+    </a>
+    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" />
+    </a>
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+    </a>
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
+    </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+    </a>
+    <a href="https://spring.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
+    </a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/IntelliJ_IDEA-%231877F2.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" width="40" height="40" />
+    </a>
+    <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/NetBeans-%23000000.svg?style=for-the-badge&logo=apache-netbeans&logoColor=white" alt="NetBeans" width="40" height="40" />
+    </a>
 </p>
 
-### <picture> <img src = "pictures/backend.gif" width = 50px>  </picture> Backend Development :<br>
-<p align="center"> 
-&emsp; 
-  <a href="https://www.spring.io/" target="_blank"> 
-   <img alt="Spring" src="https://www.pngkey.com/png/full/346-3466483_spring-logo-spring-framework.png" width=150px>
-  </a>  
-  &emsp; 
-  <a href="https://hibernate.org/" target="_blank"> 
-   <img alt="Hibernate" src="pictures/Hibernate_logo_a.png" width=200px>
-  </a>  
-</p>
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools :<br>
- 
 <p align="center">
-  &emsp;
-    <a href="Git"><img alt="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width=50px></a>
-  &emsp;
-    <a href="Github"><img alt="GitHub" src="pictures/github.png" width=50px></a>
-  &emsp;
-  <a href="Postman"><img alt="Postman" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" width=50px></a>
-  &emsp;
-    <a href="Stack Overflow"><img alt="Stack Overflow" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width=50px></a>
-  &emsp;
-    <a href="json"><img alt="JSON" img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/1200px-JSON_vector_logo.svg.png" width=50px></a>
-    &emsp;
-    <a href="mysql"><img src="pictures/mySqlLogo.png"width=70px></a>
-    &emsp;
-    <a href="Maven"><img src="pictures/maven-apache.jpg"width=90px></a>
-    &emsp;
-    <a href="Geekf For Geeks"><img alt="Geekf For Geeks" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" width=70px></a>
-    &emsp;
-    <a href="javaTpoint"><img alt="javaTpoint" src="pictures/javaTpoint.jpeg" width=90px></a>
+    <img src="https://komarev.com/ghpvc/?username=mohamad-shosha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <a href="https://github.com/Mohamad-shosha">
+        <img src="https://img.shields.io/github/followers/mohamad-shosha?label=Followers&style=social" alt="GitHub Followers">
+    </a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs :<br>
- 
+<p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=mohamad-shosha" alt="mohamad-shosha" />
+    </a>
+</p>
+
+<p align="left">
+    <a href="https://twitter.com/" target="blank">
+        <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
+    </a>
+</p>
+
+---
+
+
+## 📊 GitHub Stats & Activity
+
 <p align="center">
-  &emsp;
-    <a href="vs-code"><img alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width=50px></a>
-  &emsp;
-    <a href="IntelliJ"><img alt="JetBrain" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width=50px></a>
-    &emsp;
-    <a href="Clion"><img alt="Clion" src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png" width=50px></a>
-    &emsp;
-    <a href="Neetbeans"><img alt="Neetbeans" src="pictures/1200px-Apache_NetBeans_Logo.svg.png" width=50px></a>
-    &emsp;
-    <a href="Eclips"><img alt="eclips" src="pictures/Eclipse-Luna-Logo.svg.png" width=250px></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamad-shosha&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </p>
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving :<br>
- 
 <p align="center">
-  &emsp;
-    <a href="https://codeforces.com/profile/New_Bondoka"><img alt = "Codeforces" src="https://codeforces.com/predownloaded/ef/18/ef18d60f29c572514c03183827e1d797145d4149.png" width=60px/></a>	
-  &emsp;
-    <a href="https://leetcode.com/Abdoullah_2002/"><img alt = "Leetcode" src="https://camo.githubusercontent.com/72508db963e02251a74763caecdd2cc5a789f35fbc3bd35bdc99a7f6de96c5d4/68747470733a2f2f6c656574636f64652e636f6d2f7374617469632f696d616765732f4c656574436f64655f6c6f676f2e706e67" width=60px></a>
-  &emsp;
-    <a href="https://www.hackerrank.com/abdoullahzaki1"><img alt = "Hackerrank" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width=60px></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamad-shosha&theme=tokyonight" alt="GitHub Streak">
 </p>
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <picture> <img src = "pictures/streak2.gif" width = 20px>  </picture> <b>My Github Status :</b>
-
-<p align ="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahabdelglil&" alt="abdullahabdelglil" width=350rem/> 
-</p><br>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahabdelglil&show_icons=true&locale=en" alt="abdullahabdelglil" width=350rem/></p>
-<p align ="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahabdelglil&show_icons=true&locale=en&layout=compact" alt="abdullahabdelglil" width=350rem> 
-</p><br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <picture> <img src="https://cdn-icons-png.flaticon.com/128/7471/7471685.png" width="25px"> </picture> Contact me via :<br> 
 <p align="center">
-	<a href="mailto:abdoullahzaky1@gmail.com"><img img src="pictures/Gmail_icon_(2020).svg.png" alt="Gmail" width=60px></a> 
-	<a href="https://wa.me/0201151625051"><img src="pictures/WhatsApp.svg.webp" alt="Whatsapp" width=50px></a>
-	<a href="https://www.linkedin.com/in/abdullah-abduljalil-0b966b265/"><img src="pictures/600px-LinkedIn_logo_initials.webp" alt="LinkedIn" width=50px></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamad-shosha&langs_count=8&theme=tokyonight&layout=compact" alt="Top Languages">
 </p>
+
+---
+
+
+## 🛠️ My Tech Toolbox
+
+### **Languages**
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-%23004880.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+</p>
+
+### **Frameworks & Libraries**
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white">
+  <img src="https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white">
+  <img src="https://img.shields.io/badge/Thymeleaf-%23005599.svg?style=for-the-badge&logo=thymeleaf&logoColor=white">
+</p>
+
+### **Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/H2-Database-%234E6E66.svg?style=for-the-badge&logoColor=white">
+</p>
+
+### **Tools & Platforms**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-%231877F2.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+  <img src="https://img.shields.io/badge/NetBeans-%23000000.svg?style=for-the-badge&logo=apache-netbeans&logoColor=white">
+</p>
+
+---
+
+<div align="center">
+  <h3>🚀 Let's Build the Future Together! 🚀</h3>
+</div>
