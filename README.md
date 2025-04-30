@@ -118,9 +118,7 @@ Hi there! I'm **Abdullah**, a **23-year-old Back-End Engineer** passionate about
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdullahAbdelglil&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahAbdelglil&theme=tokyonight" alt="GitHub Streak">
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAbdelglil&langs_count=8&theme=tokyonight&layout=compact" alt="Top Languages">
 </p>
