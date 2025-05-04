@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-Hi there! I'm **Abdullah**, a **23-year-old Back-End Engineer** passionate about building scalable, efficient, and user-centric applications. I specialize in **Java**, **Spring Boot**, and **database systems**, aiming to deliver clean, maintainable, and impactful software.
+Hi there! I'm **Abdullah**, a **23-year-old Back-End Engineer with 2 years of official experience** passionate about building scalable, efficient, and user-centric applications. I specialize in **Java**, **Spring Boot**, and **database systems**, aiming to deliver clean, maintainable, and impactful software.
 
 ---
 
